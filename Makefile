@@ -1,7 +1,7 @@
 VERSION = 4
 PATCHLEVEL = 7
 SUBLEVEL = 0
-EXTRAVERSION = -rc7
+EXTRAVERSION = -rc7-windriver
 NAME = Psychotic Stoned Sheep
 
 # *DOCUMENTATION*
