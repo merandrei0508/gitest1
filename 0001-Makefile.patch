@@ -1,0 +1,25 @@
+From 39d5be4abafa133c79d4c14377e08251aaaa00a4 Mon Sep 17 00:00:00 2001
+From: merandrei0508 <merandrei0508@gmail.com>
+Date: Sat, 16 Jul 2016 17:41:23 +0300
+Subject: [PATCH] Makefile
+
+---
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index 81b2262..8eb7fdc 100644
+--- a/Makefile
++++ b/Makefile
+@@ -1,7 +1,7 @@
+ VERSION = 4
+ PATCHLEVEL = 7
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc7
++EXTRAVERSION = -rc7-windriver
+ NAME = Psychotic Stoned Sheep
+ 
+ # *DOCUMENTATION*
+-- 
+2.7.4
+
